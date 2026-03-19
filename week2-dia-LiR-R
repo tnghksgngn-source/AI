@@ -1,4 +1,5 @@
 file_path = '/content/drive/MyDrive/diabetes.csv'
+
 import pandas as pd
 df = pd.read_csv(file_path)
 df
